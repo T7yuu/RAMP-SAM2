@@ -1,0 +1,5566 @@
+[
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/100.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/100_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      68,
+      102,
+      173,
+      188
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/101.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/101_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      165,
+      140,
+      276,
+      237
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/102.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/102_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      166,
+      123,
+      273,
+      221
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/105.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/105_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      230,
+      31,
+      358,
+      215
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/106.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/106_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      222,
+      40,
+      369,
+      261
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/108.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/108_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      133,
+      12,
+      254,
+      230
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/109.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/109_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      141,
+      11,
+      255,
+      230
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/11.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/11_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      39,
+      12,
+      160,
+      216
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/110.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/110_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      137,
+      13,
+      279,
+      250
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/111.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/111_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      150,
+      12,
+      287,
+      253
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/112.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/112_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      158,
+      13,
+      302,
+      256
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/113.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/113_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      157,
+      12,
+      300,
+      257
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/114.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/114_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      197,
+      13,
+      350,
+      261
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/115.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/115_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      229,
+      10,
+      343,
+      280
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/116.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/116_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      196,
+      12,
+      330,
+      273
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/117.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/117_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      167,
+      8,
+      311,
+      259
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/118.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/118_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      154,
+      9,
+      318,
+      271
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/119.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/119_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      259,
+      11,
+      365,
+      276
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/12.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/12_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      38,
+      43,
+      212,
+      278
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/120.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/120_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      242,
+      13,
+      336,
+      279
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/122.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/122_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      251,
+      5,
+      371,
+      284
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/124.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/124_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      245,
+      13,
+      369,
+      278
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/127.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/127_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      219,
+      200,
+      315,
+      271
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/129.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/129_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      206,
+      137,
+      322,
+      226
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/13.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/13_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      39,
+      151,
+      221,
+      282
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/131.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/131_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      115,
+      66,
+      250,
+      165
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/132.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/132_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      61,
+      179,
+      153,
+      248
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/133.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/133_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      102,
+      173,
+      219,
+      253
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/134.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/134_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      172,
+      192,
+      287,
+      270
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/136.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/136_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      150,
+      183,
+      312,
+      283
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/137.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/137_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      184,
+      187,
+      338,
+      279
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/14.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/14_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      39,
+      149,
+      329,
+      282
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/141.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/141_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      145,
+      10,
+      354,
+      186
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/143.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/143_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      295,
+      153,
+      357,
+      253
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/144.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/144_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      197,
+      105,
+      350,
+      241
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/145.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/145_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      64,
+      47,
+      251,
+      202
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/146.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/146_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      52,
+      14,
+      238,
+      171
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/147.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/147_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      94,
+      102,
+      238,
+      219
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/149.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/149_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      130,
+      154,
+      258,
+      242
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/15.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/15_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      40,
+      96,
+      307,
+      282
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/152.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/152_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      132,
+      126,
+      329,
+      259
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/153.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/153_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      117,
+      63,
+      231,
+      133
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/154.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/154_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      141,
+      112,
+      165,
+      149
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/155.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/155_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      151,
+      81,
+      191,
+      145
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/156.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/156_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      122,
+      43,
+      191,
+      148
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/157.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/157_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      121,
+      14,
+      211,
+      144
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/158.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/158_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      94,
+      33,
+      160,
+      135
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/159.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/159_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      95,
+      70,
+      137,
+      134
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/160.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/160_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      115,
+      20,
+      207,
+      150
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/161.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/161_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      106,
+      58,
+      161,
+      137
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/162.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/162_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      141,
+      34,
+      220,
+      131
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/164.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/164_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      48,
+      66,
+      99,
+      148
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/166.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/166_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      59,
+      69,
+      157,
+      187
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/167.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/167_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      113,
+      30,
+      180,
+      102
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/168.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/168_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      138,
+      64,
+      226,
+      145
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/169.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/169_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      161,
+      40,
+      262,
+      136
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/170.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/170_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      168,
+      27,
+      251,
+      104
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/174.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/174_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      109,
+      106,
+      261,
+      239
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/175.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/175_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      85,
+      157,
+      238,
+      283
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/176.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/176_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      87,
+      127,
+      237,
+      264
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/177.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/177_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      87,
+      188,
+      211,
+      282
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/178.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/178_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      233,
+      90,
+      259,
+      111
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/179.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/179_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      268,
+      127,
+      336,
+      184
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/180.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/180_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      227,
+      142,
+      299,
+      202
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/182.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/182_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      220,
+      134,
+      293,
+      193
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/186.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/186_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      169,
+      112,
+      284,
+      201
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/187.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/187_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      137,
+      80,
+      283,
+      193
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/188.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/188_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      132,
+      70,
+      277,
+      189
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/19.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/19_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      59,
+      164,
+      325,
+      282
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/191.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/191_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      216,
+      123,
+      260,
+      157
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/194.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/194_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      188,
+      129,
+      271,
+      203
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/195.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/195_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      191,
+      126,
+      272,
+      196
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/196.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/196_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      195,
+      123,
+      276,
+      192
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/197.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/197_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      206,
+      110,
+      290,
+      183
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/198.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/198_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      222,
+      97,
+      301,
+      168
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/199.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/199_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      224,
+      96,
+      307,
+      166
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/2.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/2_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      0,
+      127,
+      270,
+      287
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/200.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/200_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      147,
+      135,
+      235,
+      218
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/202.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/202_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      146,
+      140,
+      239,
+      220
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/203.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/203_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      261,
+      137,
+      332,
+      220
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/204.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/204_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      257,
+      146,
+      319,
+      216
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/205.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/205_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      193,
+      203,
+      256,
+      262
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/206.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/206_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      43,
+      183,
+      315,
+      261
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/207.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/207_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      42,
+      176,
+      327,
+      254
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/208.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/208_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      122,
+      163,
+      308,
+      229
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/210.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/210_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      21,
+      79,
+      358,
+      273
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/211.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/211_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      40,
+      69,
+      352,
+      246
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/212.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/212_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      40,
+      81,
+      341,
+      259
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/215.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/215_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      137,
+      191,
+      304,
+      287
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/216.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/216_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      57,
+      171,
+      287,
+      271
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/217.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/217_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      148,
+      106,
+      295,
+      215
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/218.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/218_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      163,
+      151,
+      290,
+      257
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/219.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/219_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      113,
+      164,
+      288,
+      249
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/220.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/220_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      182,
+      187,
+      282,
+      264
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/222.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/222_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      190,
+      195,
+      278,
+      257
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/223.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/223_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      173,
+      188,
+      253,
+      257
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/224.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/224_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      183,
+      203,
+      254,
+      262
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/225.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/225_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      149,
+      223,
+      241,
+      268
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/228.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/228_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      172,
+      80,
+      258,
+      228
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/229.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/229_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      163,
+      95,
+      247,
+      250
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/23.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/23_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      77,
+      154,
+      358,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/231.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/231_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      121,
+      57,
+      264,
+      252
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/232.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/232_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      159,
+      92,
+      278,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/233.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/233_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      171,
+      92,
+      293,
+      282
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/235.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/235_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      180,
+      114,
+      285,
+      282
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/237.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/237_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      170,
+      56,
+      269,
+      266
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/238.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/238_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      161,
+      50,
+      260,
+      264
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/239.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/239_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      149,
+      44,
+      247,
+      246
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/24.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/24_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      41,
+      187,
+      346,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/241.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/241_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      112,
+      44,
+      216,
+      246
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/243.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/243_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      132,
+      17,
+      218,
+      218
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/244.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/244_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      146,
+      52,
+      227,
+      245
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/245.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/245_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      153,
+      71,
+      227,
+      237
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/247.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/247_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      92,
+      64,
+      196,
+      283
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/250.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/250_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      142,
+      94,
+      215,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/251.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/251_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      146,
+      80,
+      210,
+      249
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/252.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/252_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      133,
+      65,
+      207,
+      273
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/253.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/253_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      41,
+      71,
+      303,
+      234
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/254.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/254_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      41,
+      105,
+      274,
+      283
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/255.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/255_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      41,
+      150,
+      284,
+      280
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/258.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/258_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      42,
+      80,
+      288,
+      249
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/259.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/259_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      44,
+      100,
+      308,
+      269
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/26.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/26_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      149,
+      69,
+      201,
+      104
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/260.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/260_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      57,
+      111,
+      338,
+      280
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/261.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/261_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      78,
+      118,
+      334,
+      280
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/262.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/262_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      107,
+      157,
+      344,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/263.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/263_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      40,
+      165,
+      309,
+      282
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/264.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/264_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      37,
+      123,
+      325,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/265.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/265_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      43,
+      114,
+      329,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/267.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/267_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      52,
+      64,
+      299,
+      215
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/268.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/268_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      46,
+      70,
+      355,
+      242
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/269.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/269_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      38,
+      155,
+      309,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/27.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/27_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      186,
+      108,
+      234,
+      145
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/270.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/270_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      37,
+      135,
+      290,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/272.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/272_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      42,
+      72,
+      356,
+      246
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/273.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/273_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      40,
+      40,
+      354,
+      208
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/274.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/274_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      41,
+      60,
+      360,
+      249
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/278.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/278_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      181,
+      183,
+      251,
+      227
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/279.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/279_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      188,
+      155,
+      259,
+      205
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/28.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/28_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      201,
+      96,
+      278,
+      154
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/280.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/280_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      176,
+      138,
+      251,
+      194
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/281.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/281_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      165,
+      125,
+      240,
+      186
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/283.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/283_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      158,
+      82,
+      242,
+      142
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/284.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/284_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      201,
+      123,
+      282,
+      171
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/285.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/285_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      210,
+      92,
+      291,
+      143
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/286.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/286_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      156,
+      151,
+      249,
+      198
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/287.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/287_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      93,
+      138,
+      180,
+      190
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/288.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/288_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      72,
+      124,
+      153,
+      180
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/289.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/289_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      55,
+      90,
+      124,
+      150
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/29.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/29_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      181,
+      158,
+      265,
+      227
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/290.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/290_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      128,
+      102,
+      178,
+      151
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/291.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/291_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      188,
+      134,
+      239,
+      174
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/293.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/293_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      159,
+      130,
+      243,
+      184
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/296.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/296_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      187,
+      112,
+      260,
+      161
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/297.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/297_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      173,
+      196,
+      257,
+      240
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/299.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/299_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      224,
+      115,
+      271,
+      206
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/302.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/302_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      211,
+      75,
+      298,
+      229
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/303.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/303_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      220,
+      30,
+      308,
+      211
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/305.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/305_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      231,
+      70,
+      342,
+      260
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/306.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/306_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      113,
+      74,
+      277,
+      282
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/307.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/307_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      90,
+      105,
+      206,
+      235
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/310.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/310_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      238,
+      204,
+      292,
+      270
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/311.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/311_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      171,
+      199,
+      234,
+      269
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/312.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/312_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      247,
+      191,
+      283,
+      245
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/315.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/315_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      184,
+      140,
+      359,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/316.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/316_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      149,
+      81,
+      356,
+      282
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/317.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/317_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      179,
+      86,
+      322,
+      260
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/318.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/318_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      167,
+      178,
+      233,
+      222
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/319.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/319_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      168,
+      157,
+      234,
+      207
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/32.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/32_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      123,
+      170,
+      257,
+      265
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/320.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/320_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      177,
+      193,
+      266,
+      252
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/321.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/321_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      170,
+      120,
+      268,
+      197
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/323.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/323_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      142,
+      117,
+      265,
+      216
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/325.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/325_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      146,
+      114,
+      227,
+      184
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/327.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/327_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      129,
+      164,
+      197,
+      231
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/328.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/328_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      79,
+      153,
+      153,
+      226
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/329.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/329_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      28,
+      166,
+      96,
+      251
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/330.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/330_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      39,
+      72,
+      122,
+      161
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/331.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/331_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      56,
+      83,
+      158,
+      176
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/333.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/333_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      100,
+      141,
+      189,
+      213
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/334.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/334_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      114,
+      157,
+      215,
+      230
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/335.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/335_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      128,
+      176,
+      228,
+      253
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/336.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/336_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      127,
+      150,
+      216,
+      226
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/337.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/337_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      120,
+      172,
+      208,
+      257
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/338.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/338_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      74,
+      55,
+      215,
+      172
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/339.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/339_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      148,
+      209,
+      222,
+      262
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/34.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/34_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      163,
+      171,
+      273,
+      252
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/340.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/340_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      172,
+      181,
+      228,
+      221
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/347.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/347_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      92,
+      223,
+      215,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/349.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/349_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      41,
+      92,
+      224,
+      280
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/35.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/35_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      156,
+      104,
+      267,
+      184
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/350.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/350_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      41,
+      80,
+      198,
+      276
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/351.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/351_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      91,
+      153,
+      152,
+      264
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/353.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/353_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      46,
+      198,
+      199,
+      283
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/356.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/356_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      194,
+      36,
+      279,
+      238
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/357.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/357_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      29,
+      171,
+      279,
+      287
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/358.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/358_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      35,
+      224,
+      274,
+      287
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/359.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/359_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      35,
+      201,
+      235,
+      287
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/36.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/36_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      156,
+      75,
+      241,
+      137
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/361.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/361_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      114,
+      157,
+      251,
+      279
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/362.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/362_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      155,
+      142,
+      258,
+      279
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/363.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/363_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      157,
+      184,
+      187,
+      251
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/364.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/364_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      216,
+      180,
+      276,
+      228
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/365.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/365_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      219,
+      181,
+      275,
+      223
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/367.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/367_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      221,
+      179,
+      280,
+      227
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/368.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/368_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      201,
+      174,
+      258,
+      222
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/369.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/369_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      201,
+      172,
+      250,
+      215
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/370.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/370_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      181,
+      172,
+      230,
+      212
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/371.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/371_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      178,
+      172,
+      220,
+      207
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/372.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/372_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      180,
+      170,
+      220,
+      203
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/373.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/373_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      178,
+      180,
+      223,
+      209
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/376.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/376_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      171,
+      123,
+      244,
+      167
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/377.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/377_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      153,
+      141,
+      216,
+      185
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/378.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/378_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      160,
+      139,
+      219,
+      179
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/379.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/379_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      156,
+      230,
+      203,
+      263
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/380.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/380_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      184,
+      213,
+      240,
+      253
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/381.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/381_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      159,
+      220,
+      228,
+      268
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/382.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/382_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      160,
+      205,
+      233,
+      258
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/383.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/383_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      195,
+      176,
+      267,
+      225
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/384.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/384_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      144,
+      12,
+      311,
+      271
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/385.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/385_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      148,
+      12,
+      303,
+      272
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/386.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/386_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      130,
+      13,
+      299,
+      264
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/387.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/387_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      121,
+      13,
+      284,
+      264
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/391.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/391_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      279,
+      56,
+      344,
+      170
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/392.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/392_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      254,
+      49,
+      341,
+      175
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/393.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/393_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      243,
+      62,
+      331,
+      177
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/396.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/396_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      201,
+      47,
+      310,
+      190
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/397.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/397_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      209,
+      47,
+      331,
+      208
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/398.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/398_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      165,
+      56,
+      299,
+      240
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/4.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/4_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      0,
+      120,
+      272,
+      287
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/40.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/40_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      126,
+      113,
+      247,
+      199
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/400.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/400_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      251,
+      68,
+      333,
+      181
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/401.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/401_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      189,
+      89,
+      286,
+      212
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/402.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/402_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      195,
+      61,
+      321,
+      211
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/403.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/403_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      227,
+      59,
+      326,
+      189
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/404.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/404_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      247,
+      56,
+      342,
+      200
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/405.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/405_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      219,
+      65,
+      312,
+      194
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/406.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/406_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      252,
+      66,
+      343,
+      205
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/407.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/407_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      199,
+      68,
+      297,
+      217
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/408.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/408_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      205,
+      111,
+      282,
+      250
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/41.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/41_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      159,
+      113,
+      250,
+      181
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/410.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/410_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      124,
+      46,
+      257,
+      149
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/411.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/411_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      51,
+      36,
+      146,
+      132
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/414.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/414_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      42,
+      13,
+      240,
+      218
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/415.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/415_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      49,
+      45,
+      214,
+      191
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/417.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/417_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      44,
+      48,
+      159,
+      181
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/418.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/418_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      71,
+      45,
+      167,
+      133
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/419.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/419_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      45,
+      22,
+      263,
+      199
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/42.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/42_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      142,
+      93,
+      252,
+      177
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/420.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/420_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      51,
+      33,
+      221,
+      183
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/421.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/421_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      56,
+      11,
+      222,
+      144
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/422.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/422_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      46,
+      36,
+      270,
+      237
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/423.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/423_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      42,
+      18,
+      200,
+      161
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/424.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/424_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      105,
+      196,
+      165,
+      247
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/425.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/425_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      103,
+      120,
+      168,
+      176
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/427.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/427_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      153,
+      12,
+      321,
+      107
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/428.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/428_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      82,
+      13,
+      219,
+      133
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/429.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/429_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      172,
+      82,
+      263,
+      197
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/433.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/433_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      118,
+      73,
+      221,
+      196
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/434.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/434_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      113,
+      68,
+      217,
+      196
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/437.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/437_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      183,
+      63,
+      276,
+      172
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/438.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/438_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      169,
+      39,
+      307,
+      204
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/439.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/439_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      56,
+      159,
+      139,
+      276
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/44.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/44_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      55,
+      91,
+      186,
+      178
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/441.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/441_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      205,
+      122,
+      262,
+      184
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/442.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/442_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      223,
+      80,
+      284,
+      164
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/443.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/443_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      213,
+      122,
+      295,
+      228
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/444.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/444_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      169,
+      175,
+      264,
+      279
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/446.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/446_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      111,
+      83,
+      228,
+      233
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/447.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/447_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      157,
+      138,
+      218,
+      209
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/451.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/451_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      219,
+      70,
+      269,
+      124
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/454.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/454_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      155,
+      27,
+      243,
+      124
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/455.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/455_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      178,
+      67,
+      279,
+      173
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/456.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/456_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      166,
+      49,
+      279,
+      179
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/457.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/457_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      102,
+      76,
+      225,
+      196
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/459.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/459_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      219,
+      74,
+      287,
+      150
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/46.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/46_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      108,
+      84,
+      223,
+      154
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/460.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/460_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      208,
+      117,
+      289,
+      201
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/461.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/461_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      196,
+      58,
+      282,
+      153
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/462.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/462_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      143,
+      91,
+      245,
+      188
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/463.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/463_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      145,
+      95,
+      266,
+      225
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/465.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/465_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      129,
+      121,
+      259,
+      247
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/466.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/466_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      158,
+      49,
+      269,
+      182
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/468.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/468_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      102,
+      28,
+      284,
+      189
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/47.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/47_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      123,
+      119,
+      258,
+      217
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/470.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/470_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      82,
+      92,
+      331,
+      287
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/472.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/472_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      58,
+      23,
+      319,
+      236
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/473.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/473_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      107,
+      27,
+      300,
+      185
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/474.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/474_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      88,
+      26,
+      302,
+      203
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/476.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/476_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      89,
+      27,
+      314,
+      271
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/477.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/477_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      83,
+      28,
+      314,
+      274
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/478.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/478_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      78,
+      25,
+      318,
+      279
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/479.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/479_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      94,
+      86,
+      243,
+      242
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/48.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/48_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      65,
+      53,
+      166,
+      120
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/480.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/480_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      98,
+      86,
+      246,
+      227
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/481.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/481_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      106,
+      83,
+      250,
+      225
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/483.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/483_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      91,
+      78,
+      258,
+      251
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/484.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/484_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      113,
+      85,
+      267,
+      243
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/485.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/485_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      125,
+      97,
+      263,
+      244
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/488.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/488_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      95,
+      181,
+      236,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/49.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/49_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      95,
+      187,
+      229,
+      270
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/490.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/490_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      76,
+      25,
+      349,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/491.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/491_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      134,
+      27,
+      296,
+      208
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/492.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/492_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      137,
+      104,
+      322,
+      259
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/493.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/493_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      142,
+      130,
+      318,
+      274
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/495.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/495_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      112,
+      122,
+      279,
+      280
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/497.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/497_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      59,
+      57,
+      293,
+      280
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/498.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/498_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      100,
+      80,
+      291,
+      278
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/499.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/499_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      110,
+      86,
+      295,
+      278
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/5.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/5_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      4,
+      135,
+      259,
+      287
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/500.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/500_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      151,
+      103,
+      295,
+      249
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/501.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/501_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      153,
+      128,
+      307,
+      279
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/503.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/503_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      117,
+      110,
+      288,
+      280
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/504.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/504_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      105,
+      141,
+      204,
+      267
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/505.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/505_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      72,
+      79,
+      194,
+      239
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/506.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/506_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      41,
+      46,
+      255,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/508.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/508_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      149,
+      101,
+      279,
+      260
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/509.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/509_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      173,
+      77,
+      286,
+      227
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/51.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/51_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      169,
+      153,
+      202,
+      195
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/510.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/510_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      191,
+      63,
+      295,
+      205
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/511.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/511_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      106,
+      77,
+      187,
+      186
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/513.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/513_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      118,
+      99,
+      229,
+      200
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/514.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/514_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      173,
+      136,
+      325,
+      232
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/515.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/515_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      146,
+      129,
+      283,
+      221
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/516.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/516_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      134,
+      115,
+      253,
+      257
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/518.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/518_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      91,
+      167,
+      194,
+      257
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/519.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/519_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      154,
+      115,
+      314,
+      265
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/523.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/523_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      66,
+      178,
+      155,
+      248
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/524.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/524_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      104,
+      147,
+      290,
+      280
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/526.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/526_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      117,
+      104,
+      234,
+      202
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/527.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/527_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      155,
+      199,
+      279,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/528.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/528_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      159,
+      109,
+      292,
+      210
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/529.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/529_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      187,
+      120,
+      230,
+      197
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/53.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/53_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      279,
+      148,
+      310,
+      181
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/530.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/530_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      152,
+      65,
+      194,
+      139
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/531.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/531_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      183,
+      131,
+      232,
+      207
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/534.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/534_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      211,
+      86,
+      274,
+      207
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/535.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/535_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      205,
+      85,
+      275,
+      204
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/536.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/536_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      84,
+      125,
+      151,
+      247
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/537.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/537_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      206,
+      65,
+      268,
+      158
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/538.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/538_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      222,
+      76,
+      284,
+      177
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/539.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/539_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      242,
+      64,
+      323,
+      195
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/54.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/54_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      272,
+      128,
+      296,
+      152
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/540.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/540_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      84,
+      52,
+      185,
+      229
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/542.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/542_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      119,
+      71,
+      185,
+      190
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/543.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/543_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      189,
+      34,
+      276,
+      174
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/544.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/544_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      94,
+      44,
+      199,
+      213
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/545.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/545_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      113,
+      66,
+      182,
+      183
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/546.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/546_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      134,
+      50,
+      207,
+      160
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/547.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/547_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      49,
+      134,
+      230,
+      237
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/548.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/548_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      46,
+      140,
+      247,
+      263
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/549.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/549_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      42,
+      120,
+      155,
+      211
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/55.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/55_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      301,
+      110,
+      330,
+      138
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/550.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/550_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      105,
+      154,
+      298,
+      262
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/551.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/551_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      106,
+      152,
+      296,
+      260
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/552.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/552_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      90,
+      99,
+      285,
+      200
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/556.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/556_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      99,
+      96,
+      301,
+      207
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/557.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/557_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      63,
+      93,
+      256,
+      202
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/558.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/558_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      81,
+      96,
+      266,
+      196
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/560.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/560_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      68,
+      95,
+      222,
+      175
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/561.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/561_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      54,
+      110,
+      227,
+      213
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/562.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/562_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      52,
+      128,
+      240,
+      249
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/563.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/563_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      209,
+      169,
+      356,
+      281
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/564.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/564_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      186,
+      106,
+      358,
+      247
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/566.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/566_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      42,
+      85,
+      194,
+      156
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/567.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/567_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      59,
+      96,
+      210,
+      162
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/568.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/568_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      122,
+      122,
+      226,
+      179
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/569.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/569_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      52,
+      126,
+      168,
+      188
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/57.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/57_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      231,
+      176,
+      269,
+      218
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/571.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/571_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      74,
+      108,
+      223,
+      180
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/572.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/572_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      261,
+      85,
+      352,
+      153
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/574.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/574_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      270,
+      108,
+      341,
+      158
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/575.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/575_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      168,
+      26,
+      323,
+      113
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/576.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/576_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      59,
+      23,
+      274,
+      109
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/578.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/578_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      126,
+      14,
+      299,
+      88
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/58.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/58_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      247,
+      138,
+      285,
+      183
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/580.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/580_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      59,
+      13,
+      328,
+      126
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/582.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/582_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      189,
+      86,
+      305,
+      184
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/584.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/584_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      250,
+      128,
+      320,
+      186
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/587.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/587_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      252,
+      103,
+      315,
+      157
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/588.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/588_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      255,
+      105,
+      311,
+      155
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/589.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/589_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      251,
+      75,
+      309,
+      129
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/590.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/590_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      211,
+      87,
+      268,
+      135
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/591.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/591_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      210,
+      85,
+      265,
+      130
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/592.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/592_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      173,
+      214,
+      286,
+      272
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/593.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/593_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      179,
+      206,
+      285,
+      265
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/595.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/595_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      171,
+      167,
+      264,
+      211
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/596.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/596_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      168,
+      194,
+      245,
+      231
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/597.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/597_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      176,
+      188,
+      239,
+      214
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/598.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/598_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      175,
+      214,
+      260,
+      254
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/599.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/599_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      176,
+      204,
+      267,
+      256
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/60.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/60_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      242,
+      81,
+      294,
+      148
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/600.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/600_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      105,
+      201,
+      243,
+      279
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/602.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/602_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      112,
+      186,
+      240,
+      252
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/603.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/603_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      107,
+      155,
+      249,
+      224
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/604.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/604_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      102,
+      160,
+      245,
+      224
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/605.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/605_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      130,
+      80,
+      176,
+      169
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/606.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/606_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      106,
+      115,
+      164,
+      208
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/609.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/609_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      139,
+      176,
+      249,
+      227
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/610.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/610_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      177,
+      203,
+      286,
+      252
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/611.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/611_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      147,
+      203,
+      253,
+      249
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/612.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/612_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      155,
+      194,
+      233,
+      227
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/63.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/63_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      261,
+      140,
+      302,
+      185
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/66.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/66_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      289,
+      177,
+      329,
+      224
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/67.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/67_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      300,
+      163,
+      346,
+      208
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/69.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/69_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      136,
+      173,
+      173,
+      217
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/7.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/7_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      39,
+      100,
+      236,
+      280
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/70.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/70_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      79,
+      143,
+      199,
+      249
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/71.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/71_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      80,
+      165,
+      130,
+      224
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/72.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/72_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      96,
+      110,
+      292,
+      242
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/75.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/75_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      59,
+      93,
+      265,
+      248
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/76.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/76_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      133,
+      171,
+      206,
+      265
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/77.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/77_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      144,
+      140,
+      228,
+      237
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/79.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/79_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      72,
+      151,
+      111,
+      214
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/8.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/8_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      10,
+      132,
+      338,
+      287
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/80.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/80_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      97,
+      197,
+      133,
+      242
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/82.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/82_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      46,
+      136,
+      100,
+      217
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/83.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/83_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      68,
+      121,
+      182,
+      227
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/84.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/84_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      81,
+      77,
+      151,
+      168
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/85.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/85_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      78,
+      43,
+      158,
+      135
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/87.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/87_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      83,
+      29,
+      169,
+      130
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/88.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/88_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      77,
+      104,
+      150,
+      181
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/89.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/89_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      87,
+      67,
+      161,
+      151
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/91.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/91_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      117,
+      53,
+      193,
+      136
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/95.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/95_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      122,
+      35,
+      186,
+      124
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/97.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/97_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      100,
+      64,
+      180,
+      127
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/98.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/98_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      110,
+      95,
+      230,
+      199
+    ],
+    "image_width": 384,
+    "image_height": 288
+  },
+  {
+    "image_path": "E:/Datasets/CVC-ClinicDB_Split/train/images_compressed/99.png",
+    "mask_path": "E:/Datasets/CVC-ClinicDB_Split/train/groundtruth/99_segmentation.png",
+    "text": "endoscopy polyp, colon cancer",
+    "box": [
+      71,
+      106,
+      172,
+      195
+    ],
+    "image_width": 384,
+    "image_height": 288
+  }
+]
